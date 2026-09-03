@@ -14,8 +14,8 @@ That means...
 `Python` `SQL` `PySpark` `Spark` `Databricks` `Delta Lake` `AWS S3` `Airflow` `Git`
 
 **🎓 Education**
-BSc Electronics & Automation Technologies, University of Colombo (2026)
-HND in Electronics and telecommunication engineering
+BSc Electronics & Automation Technologies, University of Colombo (2026) |
+HND in Electronics and telecommunication engineering (2025)
 
 
 <!--
