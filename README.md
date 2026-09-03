@@ -15,7 +15,7 @@ That means...
 
 **🎓 Education**
 BSc Electronics & Automation Technologies, University of Colombo (2026) |
-HND in Electronics and telecommunication engineering (2025)
+HND in Electronics and Telecommunication Engineering (2025)
 
 
 <!--
