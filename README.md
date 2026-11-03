@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Concepts I work with
+### 🧾 Concepts I work with
 
 - **Pipelines:** `ETL/ELT` · `Data Pipelines` · `Batch Processing` · `Workflow Orchestration`
 - **Architecture:** `Medallion Architecture (Bronze → Silver → Gold)` · `Data Lakehouse`
