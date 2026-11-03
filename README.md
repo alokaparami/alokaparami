@@ -7,24 +7,27 @@
 
 ---
 
-**🧠 Concepts I work with**
+---
 
-|---|---|
-| Pipelines | `ETL/ELT` · `Data Pipelines` · `Batch Processing` · `Workflow Orchestration` |
-| Architecture | `Medallion Architecture (Bronze → Silver → Gold)` · `Data Lakehouse` |
-| Data Systems | `OLTP` · `OLAP` |
-| Data Modeling | `Fact Tables` · `Dimension Tables` · `Star Schema` · `SCDs (Type 1, Type 2)` |
-| Data Loading | `CDC (Change Data Capture)` · `Incremental Loading` · `Full Load` · `Upserts` |
-| Reliability | `Data Quality & Validation` |
+### 🧠 Concepts I work with
 
-**🛠️ Tools & Technologies**
+- **Pipelines:** `ETL/ELT` · `Data Pipelines` · `Batch Processing` · `Workflow Orchestration`
+- **Architecture:** `Medallion Architecture (Bronze → Silver → Gold)` · `Data Lakehouse`
+- **Data Systems:** `OLTP` · `OLAP`
+- **Data Modeling:** `Fact Tables` · `Dimension Tables` · `Star Schema` · `SCDs (Type 1, Type 2)`
+- **Data Loading:** `CDC (Change Data Capture)` · `Incremental Loading` · `Full Load` · `Upserts`
+- **Reliability:** `Data Quality & Validation`
 
-| Languages | `Python` `SQL` |
-| Processing | `PySpark` `Spark` |
-| Platform | `Databricks` |
-| Storage & Formats | `Delta Lake` `AWS S3` |
-| Orchestration | `Airflow` |
-| Version Control | `Git` |
+### 🛠️ Tools & Technologies
+
+- **Languages:** `Python` · `SQL`
+- **Processing:** `PySpark` · `Spark`
+- **Platform:** `Databricks`
+- **Storage & Formats:** `Delta Lake` · `AWS S3`
+- **Orchestration:** `Airflow`
+- **Version Control:** `Git`
+
+---
 
 **🎓 Education**
 BSc Electronics & Automation Technologies, University of Colombo (2026)
