@@ -1,20 +1,33 @@
 ### Hello, I'm Parami 👋 Data Engineer
 
-Thanks for stopping by. Here's a little bit about myself...
-
-🔭 I'm building end-to-end pipelines and analytics-ready datasets,
-That means...
-👯 I'm open to Data Engineering opportunities and collaborations
-👀 I'm looking to connect with others in the data engineering community
+🔭 I build end-to-end pipelines and analytics-ready datasets
+👀 I'm open to Data Engineering opportunities and collaborations
 🤘 You can find my data engineering projects on my profile
-💬 Ask me about: ETL/ELT, Data Pipelines, Medallion Architecture
-📫 Reach me: [paramialoka7@gmail.com](mailto:paramialoka7@gmail.com) | [LinkedIn](www.linkedin.com/in/parami-aloka-b7839526a)
+📫 Reach me: [paramialoka7@gmail.com](mailto:paramialoka7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/parami-aloka-b7839526a)
 
-**🛠️ Skills**
-`Python` `SQL` `PySpark` `Spark` `Databricks` `Delta Lake` `AWS S3` `Airflow` `Git`
+---
+
+**🧠 Concepts I work with**
+
+|---|---|
+| Pipelines | `ETL/ELT` · `Data Pipelines` · `Batch Processing` · `Workflow Orchestration` |
+| Architecture | `Medallion Architecture (Bronze → Silver → Gold)` · `Data Lakehouse` |
+| Data Systems | `OLTP` · `OLAP` |
+| Data Modeling | `Fact Tables` · `Dimension Tables` · `Star Schema` · `SCDs (Type 1, Type 2)` |
+| Data Loading | `CDC (Change Data Capture)` · `Incremental Loading` · `Full Load` · `Upserts` |
+| Reliability | `Data Quality & Validation` |
+
+**🛠️ Tools & Technologies**
+
+| Languages | `Python` `SQL` |
+| Processing | `PySpark` `Spark` |
+| Platform | `Databricks` |
+| Storage & Formats | `Delta Lake` `AWS S3` |
+| Orchestration | `Airflow` |
+| Version Control | `Git` |
 
 **🎓 Education**
-BSc Electronics & Automation Technologies, University of Colombo (2026) |
+BSc Electronics & Automation Technologies, University of Colombo (2026)
 HND in Electronics and Telecommunication Engineering (2025)
 
 
