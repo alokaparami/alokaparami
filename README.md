@@ -30,8 +30,8 @@
 ---
 
 **🎓 Education**
-**BSc Electronics & Automation Technologies, University of Colombo (2026)
-**HND in Electronics and Telecommunication Engineering (2025)
+- **BSc Electronics & Automation Technologies, University of Colombo (2026)
+- **HND in Electronics and Telecommunication Engineering (2025)
 
 
 <!--
